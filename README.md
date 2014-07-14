@@ -8,7 +8,7 @@ A WIP starter application for quick prototyping and demonstration.
 
 ### Application structure
 
-The main entry point is `index.html`. Files written in `JSX` may be placed inside the `/src` folder. You can transform these files automatically by running `./develop.sh`.
+The main entry point is `index.html`. Files written in `JSX` may be placed inside the `/src` folder.
 
 Node dependencies are listed in `package.json`.
 
