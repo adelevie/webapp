@@ -1,0 +1,25 @@
+{
+  "name": "webapp",
+  "version": "0.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "preinstall": "npm install -g react-tools http-server localtunnel browserify gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "Public Domain",
+  "dependencies": {
+    "react": "*",
+    "gulp": "*"
+  },
+  "devDependencies": {
+    "gulp-browserify": "^0.5.0",
+    "gulp-react": "^0.4.0",
+    "page": "^1.3.7",
+    "react-async": "^0.9.4"
+  }
+}
