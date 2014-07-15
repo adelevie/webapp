@@ -31,7 +31,7 @@ $ gulp
 #### Serving locally
 
 ```sh
-$ node-server
+$ http-server
 ```
 
 #### Serving in a public staging URL
